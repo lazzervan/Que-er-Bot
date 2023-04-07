@@ -1,0 +1,14 @@
+Cython == 8.29.33
+dlib == 19.24.0
+evdev == 1.6.1 #set up your own remote
+face_recognition == 1.3.0
+gpiozero == 1.6.2
+mysql-connector-python == 8.0.32
+numpy == 1.24.2
+opencv-contrib-python == 4.5.3.56
+Pillow == 8.1.2
+pyttsx3 == 2.90
+tkinter == 
+tkthread == 0.5.2
+#sudo apt update && sudo apt install espeak ffmpeg libespeak1
+#sudo install cmake and dlib wheel for the face_recognition lib
